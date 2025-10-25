@@ -1,9 +1,9 @@
+## 🎥 Demo
+![TO-DO](https://github.com/user-attachments/assets/4e24c540-f76a-4b51-92f4-b5ef7d156770) 
+> See the to-do list application in action!
 
 
-
-
-
-## ![TO-DO](https://github.com/user-attachments/assets/4e24c540-f76a-4b51-92f4-b5ef7d156770)
+---
 
 # 📝 To-Do List Application
 
@@ -25,12 +25,6 @@ This project helped me strengthen my understanding of **DOM manipulation**, **ev
 - 📱 Fully responsive design that works on all devices  
 - ⚡ Smooth animations and hover effects  
 - 🧼 Clean and intuitive user interface  
-
----
-
-## 🎥 Demo
-*(Insert demo GIF or screenshot here)*  
-> See the to-do list application in action!
 
 ---
 
